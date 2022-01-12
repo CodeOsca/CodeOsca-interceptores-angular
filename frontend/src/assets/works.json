@@ -1,0 +1,44 @@
+[
+    {
+        "externalLink": "http://matchups-landing.herokuapp.com/",
+        "image": "./assets/images/projects/matchups/1.png",
+        "urls": [
+            "./assets/images/projects/matchups/1.png",
+            "./assets/images/projects/matchups/2.png",
+            "./assets/images/projects/matchups/3.png"
+        ],
+        "technologies": [
+            "./assets/images/skills/icons8-html-5-96.png",
+            "./assets/images/skills/icons8-css3-100.png",
+            "./assets/images/skills/icons8-bootstrap-100.png"
+        ]
+    },
+    {
+        "externalLink": "https://devacas.store/",
+        "image": "./assets/images/projects/tsa-vacas/1.png",
+        "urls": [
+            "./assets/images/projects/tsa-vacas/1.png",
+            "./assets/images/projects/tsa-vacas/2.png"
+        ],
+        "technologies": [
+            "./assets/images/skills/icons8-html-5-96.png",
+            "./assets/images/skills/icons8-css3-100.png",
+            "./assets/images/skills/icons8-javascript-100.png"
+        ]
+    },
+    {
+        "externalLink": "https://marcos-velasquez.github.io/",
+        "image": "./assets/images/projects/portafolio/1.png",
+        "urls": [
+            "./assets/images/projects/portafolio/1.png",
+            "./assets/images/projects/portafolio/2.png"
+        ],
+        "technologies": [
+            "./assets/images/skills/icons8-html-5-96.png",
+            "./assets/images/skills/icons8-css3-100.png",
+            "./assets/images/skills/icons8-javascript-100.png",
+            "./assets/images/skills/icons8-typescript-100.png",
+            "./assets/images/skills/icons8-angularjs-100.png"
+        ]
+    }
+]

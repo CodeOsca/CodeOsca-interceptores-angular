@@ -1,0 +1,19 @@
+.container-flex{
+    display: flex;
+
+    div{
+        overflow: hidden;
+        width: 50px;
+        min-height: 100vh;
+
+        img{
+            width: 100%;
+        }
+    }
+}
+
+@media(max-width:600px){
+    .sidebar{
+        display: none;
+    }
+}
